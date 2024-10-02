@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: aliceblue;
+
+}
+
+.bcnlg{
+    text-align: center;
+}
+
+header h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+
+}
+
+.Back{
+
+    color: white;
+    text-align: center;
+}
+
+a{
+
+    color: red;
+}
